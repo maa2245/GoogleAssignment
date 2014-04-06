@@ -1,4 +1,37 @@
+// Here is my program outline:
 
+// 1.    Load jQuery
+
+//  2.     Load custom scripts file
+
+// 3.     Console to test scripts connected
+
+// 4.     Add document.ready
+
+// 5.     create function activated on document.ready
+
+// 6.     console log in that function.
+
+// 7.     Load Google Viz library
+
+// 8.     Load data
+
+// 9.     Feed data to library and place results on page
+
+ 
+
+//a)    get data into a format that library can consume.
+
+//b)   Convert json data to an array of arrays.
+
+//c)    Data I want to chart is “observations.” Specifically date and value.
+
+ 
+
+// 10. Get the data
+
+
+//
 
 // to make sure that I have successfully loaded my javascript into my html, I will console.log js load successful.
 // If it works, this should show up in the console.
